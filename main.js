@@ -1,4 +1,4 @@
-const API_KEY = '473f00b7b109224c4299df6a47f240c4'
+const API_KEY = 'tu api key va aca'
 const API_URL = 'https://api.openweathermap.org'
 
 // Utilities
